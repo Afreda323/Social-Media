@@ -8,16 +8,17 @@ I may come back to this eventually, but I want to focus on mastering Node before
 
 ## Tech Stack as it stands:
 
-#### Front-End
+### Front-End
 
-* Axios
-* Google Maps
-* Moment.js
 * React
 * React Router
 * Redux / Redux Thunk
+* Axios
+* Google Maps
+* Moment.js
 
-#### Back-End
+
+### Back-End
 
 * Node
 * MongoDB
