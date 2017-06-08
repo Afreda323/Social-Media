@@ -1,0 +1,328 @@
+{
+    "Charlotte": [
+        {
+            "id": 0,
+            "date": "1496086536",
+            "votes": 0,
+            "user": {
+                "id": 0,
+                "name": {
+                    "first": "Anthony",
+                    "last": "Freda"
+                }
+            },
+            "post": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",
+            "replies": [
+                {
+                    "reply": "I know, it's awesome.",
+                    "user": {
+                        "id": 2,
+                        "name": {
+                            "first": "Brodey",
+                            "last": "Newman"
+                        }
+                    }
+                }, {
+                    "reply": "I know, it's pretty cool.",
+                    "user": {
+                        "id": 1,
+                        "name": {
+                            "first": "Luis",
+                            "last": "Lopez"
+                        }
+                    }
+                }
+            ]
+        }, {
+            "id": 1,
+            "date": "1496086527",
+            "votes": 22,
+            "user": {
+                "id": 3,
+                "name": {
+                    "first": "Jesus",
+                    "last": "Esqui"
+                }
+            },
+            "post": "This app is badass!",
+            "replies": [
+                {
+                    "reply": "I know, it's awesome.",
+                    "user": {
+                        "id": 2,
+                        "name": {
+                            "first": "Brodey",
+                            "last": "Newman"
+                        }
+                    }
+                }, {
+                    "reply": "I know, it's pretty cool.",
+                    "user": {
+                        "id": 1,
+                        "name": {
+                            "first": "Luis",
+                            "last": "Lopez"
+                        }
+                    }
+                }
+            ]
+        }, {
+            "id": 2,
+            "date": "1496086510",
+            "votes": 3,
+            "user": {
+                "id": 0,
+                "name": {
+                    "first": "Anthony",
+                    "last": "Freda"
+                }
+            },
+            "post": "Wow, never knew I would make a social media app",
+            "replies": [
+                {
+                    "reply": "I know, it's awesome.",
+                    "user": {
+                        "id": 2,
+                        "name": {
+                            "first": "Brodey",
+                            "last": "Newman"
+                        }
+                    }
+                }, {
+                    "reply": "I know, it's pretty cool.",
+                    "user": {
+                        "id": 1,
+                        "name": {
+                            "first": "Luis",
+                            "last": "Lopez"
+                        }
+                    }
+                }
+            ]
+        }, {
+            "id": 3,
+            "date": "1496086536",
+            "votes": 0,
+            "user": {
+                "id": 0,
+                "name": {
+                    "first": "Anthony",
+                    "last": "Freda"
+                }
+            },
+            "post": "Wow, never knew I would make a social media app",
+            "replies": [
+                {
+                    "reply": "I know, it's awesome.",
+                    "user": {
+                        "id": 2,
+                        "name": {
+                            "first": "Brodey",
+                            "last": "Newman"
+                        }
+                    }
+                }, {
+                    "reply": "I know, it's pretty cool.",
+                    "user": {
+                        "id": 1,
+                        "name": {
+                            "first": "Luis",
+                            "last": "Lopez"
+                        }
+                    }
+                }
+            ]
+        }, {
+            "id": 4,
+            "date": "1496086527",
+            "votes": 12,
+            "user": {
+                "id": 3,
+                "name": {
+                    "first": "Jesus",
+                    "last": "Esqui"
+                }
+            },
+            "post": "This app is badass!",
+            "replies": [
+                {
+                    "reply": "I know, it's awesome.",
+                    "user": {
+                        "id": 2,
+                        "name": {
+                            "first": "Brodey",
+                            "last": "Newman"
+                        }
+                    }
+                }, {
+                    "reply": "I know, it's pretty cool.",
+                    "user": {
+                        "id": 1,
+                        "name": {
+                            "first": "Luis",
+                            "last": "Lopez"
+                        }
+                    }
+                }
+            ]
+        }, {
+            "id": 5,
+            "date": "1496086510",
+            "votes": 111,
+            "user": {
+                "id": 0,
+                "name": {
+                    "first": "Anthony",
+                    "last": "Freda"
+                }
+            },
+            "post": "Wow, never knew I would make a social media app",
+            "replies": [
+                {
+                    "reply": "I know, it's awesome.",
+                    "user": {
+                        "id": 2,
+                        "name": {
+                            "first": "Brodey",
+                            "last": "Newman"
+                        }
+                    }
+                }, {
+                    "reply": "I know, it's pretty cool.",
+                    "user": {
+                        "id": 1,
+                        "name": {
+                            "first": "Luis",
+                            "last": "Lopez"
+                        }
+                    }
+                }
+            ]
+        }, {
+            "id": 6,
+            "date": "1496086536",
+            "votes": 11,
+            "user": {
+                "id": 0,
+                "name": {
+                    "first": "Anthony",
+                    "last": "Freda"
+                }
+            },
+            "post": "Wow, never knew I would make a social media app",
+            "replies": [
+                {
+                    "reply": "I know, it's awesome.",
+                    "user": {
+                        "id": 2,
+                        "name": {
+                            "first": "Brodey",
+                            "last": "Newman"
+                        }
+                    }
+                }, {
+                    "reply": "I know, it's pretty cool.",
+                    "user": {
+                        "id": 1,
+                        "name": {
+                            "first": "Luis",
+                            "last": "Lopez"
+                        }
+                    }
+                }
+            ]
+        }, {
+            "id": 7,
+            "date": "1496086527",
+            "votes": 22,
+            "user": {
+                "id": 3,
+                "name": {
+                    "first": "Jesus",
+                    "last": "Esqui"
+                }
+            },
+            "post": "This app is badass!",
+            "replies": [
+                {
+                    "reply": "I know, it's awesome.",
+                    "user": {
+                        "id": 2,
+                        "name": {
+                            "first": "Brodey",
+                            "last": "Newman"
+                        }
+                    }
+                }, {
+                    "reply": "I know, it's pretty cool.",
+                    "user": {
+                        "id": 1,
+                        "name": {
+                            "first": "Luis",
+                            "last": "Lopez"
+                        }
+                    }
+                }
+            ]
+        }, {
+            "id": 8,
+            "date": "1496094401",
+            "votes": -69,
+            "user": {
+                "id": 0,
+                "name": {
+                    "first": "Anthony",
+                    "last": "Freda"
+                }
+            },
+            "post": "I am cool",
+            "replies": [
+                {
+                    "reply": "I know, it's awesome.",
+                    "user": {
+                        "id": 2,
+                        "name": {
+                            "first": "Brodey",
+                            "last": "Newman"
+                        }
+                    }
+                }, {
+                    "reply": "I know, it's pretty cool.",
+                    "user": {
+                        "id": 1,
+                        "name": {
+                            "first": "Luis",
+                            "last": "Lopez"
+                        }
+                    }
+                }
+            ]
+        }, {
+            "id": 9,
+            "date": "1496086510",
+            "votes": 3,
+            "user": {
+                "id": 0,
+                "name": {
+                    "first": "Anthony",
+                    "last": "Freda"
+                }
+            },
+            "post": "Wow, never knew I would make a social media app",
+            "replies": []
+        }, {
+            "id": 10,
+            "date": "1496326119",
+            "votes": 1337,
+            "user": {
+                "id": 0,
+                "name": {
+                    "first": "Anthony",
+                    "last": "Freda"
+                }
+            },
+            "post": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis p",
+            "replies": []
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+
+
+.mapped {
+    background-image: url('../map.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.overlay {
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    background: linear-gradient(to bottom left, #1857E7, #1857E7, #1857E7);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.comp{
+  position: relative;
+  z-index: 100;
+}
+.form-wrap{
+  background: white;
+  width: 80vw;
+  max-width: 700px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.form-group{
+  margin-bottom: 2px;
+}
+.form-group label{
+  margin-bottom: 2px;
+}
+.form-group small{
+  font-size: .6em;
+}
+.form-wrap .icon{
+  font-size: 1.3em;
+}
+.form-body .btn{
+  margin-top: 15px;
+}
+
+@media (max-width: 768px) {
+    .form-wrap{
+      width: 100vw;
+      min-height: 100vh;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+}
+@media (max-height: 608px) {
+    .form-wrap{
+      padding-bottom: 70px;
+    }
+}
+.form-head{
+  color: white;
+  padding: 10px 20px;
+  background: #0cebeb;
+}
+.form-body, .form-footer{
+  padding: 10px 20px;
+}
+.half-input-wrap{
+  display: flex;
+  justify-content: flex-start;
+}
+.half-input-wrap .form-group{
+  flex-grow: 1;
+}
+.half-input-wrap .form-control:nth-of-type(1){
+  width: 99%;
+}
+.form-footer{
+  text-align: center;
+}
+@keyframes spin {
+  to{
+    transform: rotate(360deg);
+  }
+}
