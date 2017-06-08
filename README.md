@@ -6,9 +6,9 @@ The front end was just about complete, but the back end is pretty bad. It sort o
 
 I may come back to this eventually, but I want to focus on mastering Node before diving into developing a social media backend.  I also have another project idea that I want to start.
 
-##Tech Stack as it stands:
+## Tech Stack as it stands:
 
-####Front-End
+#### Front-End
 
 * Axios
 * Google Maps
@@ -17,7 +17,7 @@ I may come back to this eventually, but I want to focus on mastering Node before
 * React Router
 * Redux / Redux Thunk
 
-####Back-End
+#### Back-End
 
 * Node
 * MongoDB
