@@ -1,4 +1,4 @@
-# RIP Social Media Project
+#  Social Media Project
 
 This was going to be an attempt at creating a social media application. 
 
